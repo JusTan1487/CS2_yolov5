@@ -1,0 +1,10 @@
+train: C:\STUDY\HW\PYTHON\yolov5-master\data\CS\images\train
+val: C:\STUDY\HW\PYTHON\yolov5-master\data\CS\images\val
+
+# Classes
+nc: 4  # 類別數量
+names:
+  0: t_head
+  1: t_body
+  2: ct_head
+  3: ct_body

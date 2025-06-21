@@ -1,0 +1,8 @@
+train: C:\STUDY\HW\PYTHON\yolov5-master\data\valorant\images\train
+val: C:\STUDY\HW\PYTHON\yolov5-master\data\valorant\images\val
+
+# Classes
+nc: 2  # 類別數量
+names:
+  0: head
+  1: body
